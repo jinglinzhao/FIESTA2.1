@@ -8,7 +8,9 @@ We want to use the radial velocities from various regions in the Fourier space t
 Inputs are in the fits folder. Replace them if necessary. 
 
 Files: 
+
 FIESTA2.1.0.py: Jinglin added comments changed some notations for readability during and after AstroHack Week.
+
 FIESTA2.1.1.py: Nikunj simplified the code during AstroHack Week. It was not completed yet and still needs debugging. 
 
  
